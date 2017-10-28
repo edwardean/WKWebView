@@ -1,2 +1,3 @@
 # WKWebView
-WKWebView EvaluatingJavaScrip block main thread
+>
+WKWebView Sync EvaluatingJavaScrip block main thread
