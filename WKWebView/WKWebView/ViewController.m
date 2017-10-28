@@ -27,6 +27,7 @@
     [self.webView loadRequest:request];
     
 #if 0
+    //ok
     [self syncEvaluatingJavaScriptFromString:@""];
 #else
     //main thread blocked
